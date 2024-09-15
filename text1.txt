@@ -2,11 +2,18 @@ creates test1.txt file
 basics of tutgit command
 visualstudtiocode to git 
 git clone "url of the repository" it join the git with visualstudtiocode
-to add file in git we use follow command
+to add file in  wevisual studio coed in the terminal use follow command
 git add filename.extension
 git status to check the git status whether the file is add ornot
 git commit --m"any text to fthe file is added"
 ex:git commit --m "html file is added"
 git push origin main !!it used to push the file into gitmain
 from git to visualstudtiocode
+to add file in git we use follow command
 git pull 
+to delte a file in code
+git add filename.extension
+git status to check the git status whether the file is add ornot
+git commit --m"any text to fthe file is added"
+ex:git commit --m "html file is added"
+git push origin main !!it used to push the file into gitmain
