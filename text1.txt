@@ -17,3 +17,4 @@ git status to check the git status whether the file is add ornot
 git commit --m"any text to fthe file is added"
 ex:git commit --m "html file is added"
 git push origin main !!it used to push the file into gitmain
+//thankyou
